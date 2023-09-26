@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "DIKCNajH5sVEF0j2blhLqkZXwdk6XE39L6k3mwEr+7qmdOpLvA8YARIDpDAZ7XAbpMsr2VvsYgqS/0lev7FGMw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\rezus\\OneDrive\\Desktop\\Ezdn\\Ejednevnik\\Ejednevnik.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\rezus\\.nuget\\packages\\newtonsoft.json\\13.0.2\\newtonsoft.json.13.0.2.nupkg.sha512"
+  ],
+  "logs": []
+}

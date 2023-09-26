@@ -1,0 +1,5 @@
+C:\Users\rezus\OneDrive\Desktop\Ejednevnik-master\Ejednevnik\obj\Debug\net6.0-windows\Ezdn.csproj.AssemblyReference.cache
+C:\Users\rezus\OneDrive\Desktop\Ejednevnik-master\Ejednevnik\obj\Debug\net6.0-windows\MainWindow.g.cs
+C:\Users\rezus\OneDrive\Desktop\Ejednevnik-master\Ejednevnik\obj\Debug\net6.0-windows\App.g.cs
+C:\Users\rezus\OneDrive\Desktop\Ejednevnik-master\Ejednevnik\obj\Debug\net6.0-windows\Ezdn_MarkupCompile.cache
+C:\Users\rezus\OneDrive\Desktop\Ejednevnik-master\Ejednevnik\obj\Debug\net6.0-windows\Ezdn_MarkupCompile.lref
